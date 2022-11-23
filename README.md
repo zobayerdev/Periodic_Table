@@ -1,4 +1,6 @@
 # Periodic_Table
+Through the periodic table you can know the name, mass, atomic mass, weight and atomic number of any element. Any student will be able to know them very easily through this software.
+
 ## Steps:-
 #### Step-01: First Download the full project.
 #### Step-02: Sencondly Run Latest Codeblocks Code Editor or another Editor, must ensure that editor support c file.
